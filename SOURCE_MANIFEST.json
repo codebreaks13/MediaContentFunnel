@@ -1,0 +1,23 @@
+{
+  "edition": "limited-public",
+  "project": "MediaForge",
+  "prepared": "2026-10-05",
+  "files": [
+    {
+      "path": "src/App.tsx",
+      "sha256": "959e511780d3461bb65a91f891f379ffbc6992f69d9523e9fedbb42ec36fec09"
+    },
+    {
+      "path": "src/composePoster.ts",
+      "sha256": "4c7f27fc7d07044b0601b207ca207547727d9b5f023ebce7e56caf4ae9d6e115"
+    },
+    {
+      "path": "src/index.css",
+      "sha256": "53dcbb457de810ad74d05744ac9abd463539985cb04403a81ec9819a39e3d1fb"
+    },
+    {
+      "path": "src/main.tsx",
+      "sha256": "770a6c6e5776f6e4dca2c8c0efefa99c5021521ec0456345e725ba05a7c2effe"
+    }
+  ]
+}
